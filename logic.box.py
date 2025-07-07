@@ -57,7 +57,7 @@ while dec:
     elif choice == 5:
         
         dec = False
-        print("thank you for visiting!!")
+        print("thank you !!")
 
     else:
 
